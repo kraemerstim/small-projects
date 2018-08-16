@@ -1,0 +1,7 @@
+Dimensions:
+- Outer: 240x80
+- Hole: 150x60
+
+Holders:
+- Dimensions: 40x60
+- Spacing: 165
